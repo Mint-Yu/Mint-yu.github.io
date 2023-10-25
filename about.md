@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+学术界散兵游勇，互联网吃瓜群众，专业打退堂鼓二十余年
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+暂时没理解，不会写
 
 ### Contact me
 
